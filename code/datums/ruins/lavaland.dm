@@ -8,47 +8,47 @@
 	allow_duplicates = FALSE
 
 /datum/map_template/ruin/lavaland/biodome/beach
-	name = "Biodome Beach"
+	name = "Biodom Plażowy"
 	id = "biodome-beach"
-	description = "Seemingly plucked from a tropical destination, this beach is calm and cool, with the salty waves roaring softly in the background. \
-	Comes with a rustic wooden bar and suicidal bartender."
+	description = "Wyciągnięta z tropików, ta plaża jest spokojna i miła ze słonymi falami cicho szumiącymi w tle. \
+	W zestawie rustykalny drewniany bar i samobójczy barman"
 	suffix = "lavaland_biodome_beach.dmm"
 
 /datum/map_template/ruin/lavaland/biodome/winter
-	name = "Biodome Winter"
+	name = "Biodom Zimowy"
 	id = "biodome-winter"
-	description = "For those getaways where you want to get back to nature, but you don't want to leave the fortified military compound where you spend your days. \
-	Includes a unique(*) laser pistol display case, and the recently introduced I.C.E(tm)."
+	description = "Dla ucieczki na łono natury, ale bez opuszczania umocnionego kompleksu wojskowego w którym spędzasz swoje dnie. \
+	Można się tutaj zapoznać z unikalną(*) wystawą pistoletu laserowego, a także z niedawno wdrożonym I.C.E.(tm)."
 	suffix = "lavaland_surface_biodome_winter.dmm"
 
 /datum/map_template/ruin/lavaland/biodome/clown
-	name = "Biodome Clown Planet"
+	name = "Biodom Planety Klaun"
 	id = "biodome-clown"
-	description = "WELCOME TO CLOWN PLANET! HONK HONK HONK etc.!"
+	description = "WITAJ NA PLANECIE KLAUN! HONK HONK HONK itd.!"
 	suffix = "lavaland_biodome_clown_planet.dmm"
 
 /datum/map_template/ruin/lavaland/cube
-	name = "The Wishgranter Cube"
+	name = "Kostka Życzeń"
 	id = "wishgranter-cube"
-	description = "Nothing good can come from this. Learn from their mistakes and turn around."
+	description = "Nic dobrego z tego nie wyjdzie. Ucz się na ich błędach i zawróć."
 	suffix = "lavaland_surface_cube.dmm"
 	cost = 10
 	allow_duplicates = FALSE
 
 /datum/map_template/ruin/lavaland/seed_vault
-	name = "Seed Vault"
+	name = "Skarbiec Ziaren"
 	id = "seed-vault"
-	description = "The creators of these vaults were a highly advanced and benevolent race, and launched many into the stars, hoping to aid fledgling civilizations. \
-	However, all the inhabitants seem to do is grow drugs and guns."
+	description = "Budowniczy tych skarbców byli wysoce zaawansowaną i dobroczynną rasą, i wystrzeliła ich wiele w kierunku gwiazd chcąc pomóc raczkującym cywilizacjom. \
+	Niestety, jedyne co mieszkańcy próbują tu robić to chodować trawkę i broń"
 	suffix = "lavaland_surface_seed_vault.dmm"
 	cost = 10
 	allow_duplicates = FALSE
 
 /datum/map_template/ruin/lavaland/ash_walker
-	name = "Ash Walker Nest"
+	name = "Gniazdo Chodzących w Popiele"
 	id = "ash-walker"
-	description = "A race of unbreathing lizards live here, that run faster than a human can, worship a broken dead city, and are capable of reproducing by something involving tentacles? \
-	Probably best to stay clear."
+	description = "Żyje tu rasa nie oddychających jaszczurek, które biegają szybciej niż człowiek, czczą podupadłe martwe miasto, i rozmnażają się za pomocą czegoś z mackami? \ 
+	Lepiej trzymać się z daleka."
 	suffix = "lavaland_surface_ash_walker1.dmm"
 	cost = 20
 	allow_duplicates = FALSE
